@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <title>Приклад 11</title>
+    <style>
+        body { background-color: #e6ffff; font-family: Arial, sans-serif; padding: 20px; }
+        h1 { color: #008080; }
+    </style>
+</head>
+<body>
+    <h1>Це сторінка номер 11</h1>
+    <p>Мой эксперимент: бирюзовый стиль оформления.</p>
+    <a href="index.html">На головну</a>
+</body>
+</html>

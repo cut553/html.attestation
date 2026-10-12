@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <title>Приклад 08</title>
+    <style>
+        body { background-color: #e6ffe6; font-family: Arial, sans-serif; padding: 20px; }
+        h1 { color: #006600; }
+    </style>
+</head>
+<body>
+    <h1>Це сторінка номер 08</h1>
+    <p>Мой эксперимент: зеленый стиль оформления.</p>
+    <a href="index.html">На головну</a>
+</body>
+</html>

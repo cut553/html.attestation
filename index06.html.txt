@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <title>Приклад 06</title>
+    <style>
+        body { background-color: #ffe6e6; font-family: Arial, sans-serif; padding: 20px; }
+        h1 { color: #cc0000; }
+    </style>
+</head>
+<body>
+    <h1>Це сторінка номер 06</h1>
+    <p>Мой эксперимент: изменила цвет фона на светло-розовый!</p>
+    <a href="index.html">На головну</a>
+</body>
+</html>
